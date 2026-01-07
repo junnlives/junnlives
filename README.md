@@ -4,5 +4,5 @@
 
 <p align="center">
   <a href="https://fakecrime.bio/jun">https://fakecrime.bio/jun</a> |
-  <a href="mailto:junn@riseup.net">junn@riseup.net</a>
+  <a href="mailto:jun@phirelaypore.org">jun@phirelaypore.org</a>
 </p>
